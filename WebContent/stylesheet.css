@@ -8,11 +8,11 @@ h1 {
     color: navy;
     text-align: center;
 }
-/*
+
+
 body {
-	background-color: lightgreen;
+	background-color: #E2FAFA;
 }
-*/
 
 #centerid {
 	text-align: center;
@@ -25,12 +25,10 @@ body {
     width: 50%;
 }
 
-/*
-img { 
-	height: auto;
-    width: 100%; 
+span {
+	color: red;
+	font-weight: bold;
 }
-*/
 
 table {
     border-collapse: collapse;
@@ -52,18 +50,19 @@ tr:nth-child(even) {
 div {
     width: 500px;
     border: 3px solid; 
-    background-color: lightblue;
+    background-color: navy;
+    color: white;
     text-align: center;
 }
 
 /* unvisited link */
 a:link {
-    color: #FF0000;
+    color: #4C71FA;
 }
 
 /* visited link */
 a:visited {
-    color: #00FF00;
+    color: #42C294;
 }
 
 /* mouse over link */
@@ -73,5 +72,5 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: #0000FF;
+    color: #0F0101;
 }
