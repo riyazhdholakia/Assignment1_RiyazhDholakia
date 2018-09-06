@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 * {
-font: sans-serif;
+font-family: sans-serif;
 }
 
 h1 {
@@ -33,9 +33,9 @@ span {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    width: 80%-85%;
+    width: 80%;
     border: 0;
-    align: center;
+    text-align: center;
 }
 
 th, td {
@@ -73,4 +73,10 @@ a:hover {
 /* selected link */
 a:active {
     color: #0F0101;
+}
+
+.img {
+	border: 0;
+	width: 88px;
+	height: 31px
 }
