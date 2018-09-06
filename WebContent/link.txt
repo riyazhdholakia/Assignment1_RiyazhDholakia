@@ -1,3 +1,11 @@
-file:///Users/theAIRBEAST/Desktop/Web%20Programming%20Ramya/Assignment1_RiyazhDholakia/WebContent/index.html
+http://codd.cs.gsu.edu/home/rdholakia1/public_html/Assignment1_RiyazhDholakia/WebContent/index.html
+
+http://codd.cs.gsu.edu/~rdholakia1/index.html
+
+THE ABOVE TWO LINKS FOR SOME REASON DO NOT LOAD MY PAGE
+I CHECKED A MILLION TIME FOR MY REMOTE LINK AND IT DOES NOW WORK
+PLEASE DOWNLOAD FILE AND OPEN index.html OR TRY BELOW my GITHUB OR PULL FROM CODD SERVER
+
+THANK YOU
 
 https://github.com/riyazhdholakia/Assignment1_RiyazhDholakia
