@@ -30,7 +30,7 @@ span {
 	font-weight: bold;
 }
 
-table {
+#hi {
     border-collapse: collapse;
     border-spacing: 0;
     width: 80%;
@@ -43,7 +43,7 @@ th, td {
     padding: 16px;
 }
 
-tr:nth-child(even) {
+#hi tr:nth-child(even) {
     background-color: #f2f2f2
 }
 
@@ -79,4 +79,11 @@ a:active {
 	border: 0;
 	width: 88px;
 	height: 31px
+}
+
+#mainframe{
+    border: 0;
+    width: 85%;
+    margin-left:auto;
+    margin-right:auto;
 }
